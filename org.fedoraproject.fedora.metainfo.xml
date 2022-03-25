@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="operating-system">
+  <id>org.fedoraproject.fedora</id>
+  <name>Fedora Linux</name>
+  <summary>Fedora Linux distribution from the Fedora Project</summary>
+  <description>
+    <p>Fedora creates an innovative, free, and open source platform for hardware, clouds, and containers that enables software developers and community members to build tailored solutions for their users.</p>
+  </description>
+  <url type="homepage">https://fedoraproject.org/</url>
+  <metadata_license>MIT</metadata_license>
+  <developer_name>The Fedora Project</developer_name>
+  <releases>
+    <release version="Rawhide" type="development" date="" date_eol="">
+      <description>
+        <p>This is the current version for Rawhide, which is a continuous rolling development branch. No releases are ever made directly from Rawhide, and it never freezes. There is no guarantee of stability. Rawhide is intended for initial testing of the very latest code under active development.</p>
+      </description>
+    </release>
+    <release version="36" type="development" date="" date_eol="">
+      <description>
+        <p>The upcoming release of Fedora Linux.</p>
+      </description>
+    </release>
+    <release version="35" type="stable" date="2021-11-02" date_eol="">
+      <description>
+        <p>https://fedoramagazine.org/announcing-fedora-35/</p>
+      </description>
+    </release>
+    <release version="34" type="stable" date="2021-04-27" date_eol="">
+      <description>
+        <p>https://fedoramagazine.org/announcing-fedora-34/</p>
+      </description>
+    </release>
+    <release version="33" type="stable" date="2020-10-27" date_eol="2021-12-01">
+      <description>
+        <p>https://fedoramagazine.org/announcing-fedora-33/</p>
+      </description>
+    </release>
+    <release version="32" type="stable" date="2020-04-28" date_eol="2021-06-02">
+      <description>
+        <p>https://fedoramagazine.org/announcing-fedora-32/</p>
+      </description>
+    </release>
+    <release version="31" type="stable" date="2019-10-29" date_eol="2020-12-02">
+      <description>
+        <p>https://fedoramagazine.org/announcing-fedora-31/</p>
+      </description>
+    </release>
+    <release version="30" type="stable" date="2019-04-30" date_eol="2020-06-03">
+      <description>
+        <p>https://fedoramagazine.org/announcing-fedora-30/</p>
+      </description>
+    </release>
+  </releases>
+</component>
