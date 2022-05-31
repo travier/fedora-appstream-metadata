@@ -15,9 +15,9 @@
         <p>This is the current version for Rawhide, which is a continuous rolling development branch. No releases are ever made directly from Rawhide, and it never freezes. There is no guarantee of stability. Rawhide is intended for initial testing of the very latest code under active development.</p>
       </description>
     </release>
-    <release version="36" type="development" date="" date_eol="">
+    <release version="36" type="stable" date="2022-05-03" date_eol="">
       <description>
-        <p>The upcoming release of Fedora Linux.</p>
+        <p>https://fedoramagazine.org/announcing-fedora-36/</p>
       </description>
     </release>
     <release version="35" type="stable" date="2021-11-02" date_eol="">
